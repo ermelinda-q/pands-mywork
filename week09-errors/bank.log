@@ -1,0 +1,5 @@
+2024-03-28 13:00:53,056-CRITICAL-the amount (-1) should never be less than 0-(lineno)d
+2024-03-28 13:01:46,417-CRITICAL-the amount (-1) should never be less than 0-(lineno)d
+2024-03-28 13:03:51,806-CRITICAL-the amount (-1) should never be less than 0-(lineno)d
+2024-03-28 13:04:24,112-INFO-we have just withdrawn 30 new balance is 70-(lineno)d
+2024-03-28 13:06:03,238-INFO-we have just withdrawn 30 new balance is 70-myFunctions.py-(lineno)d

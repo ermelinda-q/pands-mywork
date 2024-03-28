@@ -1,0 +1,35 @@
+DEBUG:root:we are doing stuff
+INFO:root:this is information
+WARNING:root:oooohhh I am not certain about this
+ERROR:root:not good
+CRITICAL:root:really bad
+DEBUG:root:we are doing stuff
+INFO:root:this is information
+WARNING:root:oooohhh I am not certain about this
+ERROR:root:not good
+CRITICAL:root:really bad
+DEBUG:root:we are doing stuff
+INFO:root:this is information
+WARNING:root:oooohhh I am not certain about this
+ERROR:root:not good
+CRITICAL:root:really bad
+ root * WARNING * oooohhh I am not certain about this * (lineno)d
+ root * ERROR * not good * (lineno)d
+ root * CRITICAL * really bad * (lineno)d
+ root * WARNING * oooohhh I am not certain about this * (lineno)d
+ root * ERROR * not good * (lineno)d
+ root * CRITICAL * really bad * (lineno)d
+root - WARNING - oooohhh I am not certain about this - 2024-03-28 12:51:37,262 - (lineno)d
+root - ERROR - not good - 2024-03-28 12:51:37,262 - (lineno)d
+root - CRITICAL - really bad - 2024-03-28 12:51:37,262 - (lineno)d
+2024-03-28 12:53:15,309-WARNING-oooohhh I am not certain about this-(lineno)d
+2024-03-28 12:53:15,309-ERROR-not good-(lineno)d
+2024-03-28 12:53:15,309-CRITICAL-really bad-(lineno)d
+2024-03-28 12:54:04,227-WARNING-oooohhh I am not certain about this-(lineno)d
+2024-03-28 12:54:04,228-ERROR-not good-(lineno)d
+2024-03-28 12:54:04,228-CRITICAL-really bad-(lineno)d
+2024-03-28 12:54:44,618-DEBUG-we are doing stuff-(lineno)d
+2024-03-28 12:54:44,618-INFO-this is information-(lineno)d
+2024-03-28 12:54:44,618-WARNING-oooohhh I am not certain about this-(lineno)d
+2024-03-28 12:54:44,618-ERROR-not good-(lineno)d
+2024-03-28 12:54:44,618-CRITICAL-really bad-(lineno)d
